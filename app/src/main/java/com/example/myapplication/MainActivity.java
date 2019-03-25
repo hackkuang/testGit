@@ -11,18 +11,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-<<<<<<< HEAD
 
         Logger.getLogger("MUSIC");
 
         Logger.getLogger("game");
-
-=======
-<<<<<<< .merge_file_a20052
-        Logger.getLogger("MUSIC");
-=======
-        Logger.getLogger("game");
->>>>>>> .merge_file_a20228
->>>>>>> hackdev
     }
 }
